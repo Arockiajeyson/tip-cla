@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(172, 246, 221);
+}
+.main{
+    margin-top: 200px;
+    margin-left: 350px;
+    width: 850px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 10px;
+}
+.amout-div-bill,.noOfpepole-div{
+    display: flex;
+    flex-direction: column;
+    color: gray;
+}
+.second-div{
+    margin-left: 100px;
+    margin-top: 25px;
+    width: 350px;
+    height: 300px;
+    background-color: hsl(191, 15%, 14%);
+    color: wheat;
+    border-radius: 10px;
+}
+.div-second{
+    padding: 30px;
+}
+.tip-amout-span{
+    margin-left: 150px;
+}
+.total-div{
+    margin-top: 70px;
+}
+.total-amount-span{
+    margin-left: 150px;
+}
+.rst-div{
+    margin-top: 60px;
+}
+.rst-btn{
+    width: 300px;
+    height: 40px;
+}
+.div-first{
+    padding: 30px;
+}
+input{
+    margin-top: 10px;
+    height: 40px;
+}
+label{
+    margin-top: 10px;
+}
+.first-tip-btn{
+    margin-top: 10px;
+}
+.tip-word-div{
+    margin-top: 10px;
+    color: gray;
+}
+.second-tip-btn{
+    margin-top: 30px;
+}
+.five-btn,.ten-btn,.fifty-btn,.two-btn,.fiftee-btn{
+    width: 100px;
+    height: 30px;
+    background-color: hsl(191, 15%, 14%) ;
+    color: white;
+}
+.custom-btn{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
